@@ -1,6 +1,6 @@
 let str = "helllo";
 let charToFind =  'l'
-let arr = [ ] ;
+let arr = {} ;
 
 function AllOccurence(str,charToFind,arr){
 for (let i = 0 ; i < str.length ; i++){
